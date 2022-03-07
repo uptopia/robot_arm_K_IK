@@ -9,9 +9,9 @@ Kinematics and Inverse Kinematics of Various Robot Manipulators
 - [ ] :tada: 6-axis robot manipulator (course)
 - [ ] :tada: HIWIN RT605-710-GB
 - [ ] :tada: Universal Robot UR5
-- [ ] :tada: Blue Arm
 
 ### 7-Axis
+- [ ] :tada: Blue Arm
 - [ ] :tada: TIMDA Dual Arm
 - [ ] :tada: RVL224 Dual Arm
 
